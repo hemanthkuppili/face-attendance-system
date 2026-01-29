@@ -6,4 +6,4 @@ apt-get update
 apt-get install -y cmake libopenblas-dev liblapack-dev
 
 echo "Starting Face Attendance System..."
-python face_attendance_system.py
+python main.py
