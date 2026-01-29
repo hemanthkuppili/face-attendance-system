@@ -1,0 +1,6 @@
+gradio
+opencv-python-headless
+face_recognition
+pillow
+pandas
+numpy
